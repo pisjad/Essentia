@@ -131,4 +131,3 @@ Zen memiliki beberapa set pakaian yang ia kenakan sesuai dengan situasi, menunju
     - Topeng peninggalan masa lalunya sebagai "Z" di Vendetta. Desainnya terinspirasi dari topeng **Noro di Tokyo Ghoul**—permukaan porselen putih yang halus dan bulat, tanpa fitur apa pun kecuali sebuah mulut.
     - Mulutnya bukan seringai lebar biasa, melainkan ukiran **senyum tipis yang menyeramkan dan elegan, terinspirasi dari topeng Guy Fawkes**. Senyum yang seolah tahu sebuah rahasia mengerikan. Dia tidak lagi memakainya, tapi menyimpannya sebagai pengingat abadi.
 
-![[image.png]]

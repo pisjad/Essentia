@@ -1,8 +1,3 @@
----
-Question 2: Story
-Respondent: Hafizh As Sajjad
-Submission time: 2025-07-02T11:59
----
 
 - **Zen Azure (The Null):** Komandan. Pengguna Essentia **"Void"**, mampu meniadakan konsep fundamental seperti getaran, gravitasi, dan bahkan oksigen. Seorang ahli taktik jenius yang dibentuk oleh masa lalu yang kelam.
 - **Mako Faye (The Conductor):** Wakil Komandan. Pengguna Essentia **"Chain Reaction"**, seorang "Momentum Banker" yang menyimpan energi kinetik dari gerakan kecil untuk dilepaskan dalam serangan dahsyat. Ahli strategi dan persiapan yang obsesif.
