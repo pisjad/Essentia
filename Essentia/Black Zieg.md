@@ -1,0 +1,14 @@
+---
+Question 2: Story
+Respondent: Hafizh As Sajjad
+Submission time: 2025-07-02T11:59
+---
+
+- **Zen Azure (The Null):** Komandan. Pengguna Essentia **"Void"**, mampu meniadakan konsep fundamental seperti getaran, gravitasi, dan bahkan oksigen. Seorang ahli taktik jenius yang dibentuk oleh masa lalu yang kelam.
+- **Mako Faye (The Conductor):** Wakil Komandan. Pengguna Essentia **"Chain Reaction"**, seorang "Momentum Banker" yang menyimpan energi kinetik dari gerakan kecil untuk dilepaskan dalam serangan dahsyat. Ahli strategi dan persiapan yang obsesif.
+- **Rin Aveline (The Alchemist):** Field Medic. Pengguna Essentia **"Erode"**, mampu mengurai ikatan molekuler. Kekuatan yang pada dasarnya destruktif ini ia paksa gunakan untuk penyembuhan presisi di level seluler.
+- **Mira Faye (The Aegis):** Guardian/Interceptor. Pengguna Essentia **"Conduction"**, mampu menyerap dan menyalurkan kembali serangan berbasis Essentia. Seorang petarung lincah yang menjadi perisai tim, dengan harga menanggung rasa sakit dan "gema" dari setiap serangan yang ia serap.
+- **Kael Stonebreaker (The Phalanx):** Defender/Terraineer. Pengguna Essentia **"Phalanx"**, mampu memanifestasikan perisai energi yang nyaris tak tertembus. Dia adalah benteng berjalan tim yang bisa membentuk ulang medan perang.
+- **Hazim "Muzallim" Gale (The Light Thief):** Assassin/Pengintai. Pengguna Essentia **"Umbra"**, mampu menyerap cahaya dari lingkungan untuk ditempa menjadi senjata solid. Seorang pembunuh dari gurun dengan masa lalu yang tragis.
+- **Ayla Morwen (The Profiler):** Investigator/Duelist. Pengguna Essentia **"Neural Echo"**, mampu membaca dan menyabotase sistem saraf lawan setelah kontak sesaat. Seorang _femme fatale_ cerdas yang menyerang pikiran, bukan tubuh.
+- **Daren Okoye (The Arsenal):** Weaponmaster/Motivator. Pengguna Essentia **"Arsenal Soul"**, mampu menguasai senjata atau objek apa pun yang ia sentuh di level master. Jantung dan semangat dari tim.
