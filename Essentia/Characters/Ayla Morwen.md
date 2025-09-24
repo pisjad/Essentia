@@ -5,7 +5,7 @@
 
 - **Nama Lengkap:** Ayla Morwen
 - **Afiliasi:** Black Zieg (Investigator & Psionic Duelist)
-- **Deskripsi Fisik:** Seorang wanita dewasa yang sangat elegan dengan tinggi **172 cm**. Ciri khasnya adalah rambutnya yang panjang, **bergelombang tebal (wavy)**, dan berwarna **anggur merah yang sangat gelap (dark wine red)**, yang sering ia sibakkan ke satu sisi bahu. Matanya yang berwarna **violet pucat** menatap dengan tajam, memancarkan kecerdasan dan kedewasaan yang melampaui usianya.
+- **Deskripsi Fisik:** Seorang wanita dewasa yang sangat elegan dengan tinggi **170 cm**. Ciri khasnya adalah rambutnya yang panjang, **bergelombang tebal (wavy)**, dan berwarna **anggur merah yang sangat gelap (dark wine red)**, yang sering ia sibakkan ke satu sisi bahu. Matanya yang berwarna **violet pucat** menatap dengan tajam, memancarkan kecerdasan dan kedewasaan yang melampaui usianya.
 - **Kepribadian:** Ayla memiliki "dua wajah". Di depan umum, dia adalah investigator yang pendiam, misterius, dan sulit dibaca. Namun saat bersama Black Zieg, dia menjadi **"kakak perempuan dewasa"** bagi tim—perhatian, bijaksana, dan terkadang **flirty** dengan cara yang cerdas untuk mencairkan suasana. Dia adalah sosok _femme fatale_ yang kesetiaannya hanya untuk "keluarga"-nya di Black Zieg.
 
 ### **2. PILAR ESSENTIA (ORIGIN, INFLUENCE, DRIVE)**

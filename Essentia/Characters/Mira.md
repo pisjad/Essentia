@@ -10,11 +10,11 @@ Submission time: 2025-07-01T00:55
 
 - **Nama Lengkap:** Mira Faye
 
-**Afiliasi:** Black Zieg 1
+**Afiliasi:** Black Zieg 
 
 - **Latar Belakang:** Ditemukan sebagai bayi di depan pintu **Panti Asuhan Faye**, ia tumbuh besar bersama Mako dan menganggapnya sebagai satu-satunya keluarga sejatinya. Nama "Faye" mereka ambil dari nama panti asuhan tersebut.
 - **Deskripsi Fisik:** Seorang gadis **tomboy** yang sangat energetik dengan tinggi **175 cm**. Tubuhnya **lean, atletis, dan berotot**, menunjukkan hasil dari latihan fisik konstan untuk menahan beban kekuatannya. Rambutnya yang berwarna **hitam legam dipotong gaya** _**pixie cut**_, memperkuat kesan _boyish_nya. Namun, wajahnya tetap sangat feminin dengan fitur yang imut, terutama saat ia sedang cemberut.
-- **Kepribadian:** Mira adalah "pembawa suasana" 2 di Black Zieg. Dia sangat periang, cerewet, dan selalu penuh energi. Namun, ini adalah topeng untuk menutupi sifatnya yang
+- **Kepribadian:** Mira adalah "pembawa suasana"  di Black Zieg. Dia sangat periang, cerewet, dan selalu penuh energi. Namun, ini adalah topeng untuk menutupi sifatnya yang
     
     **bersumbu pendek** dan keengganannya **memikirkan hal-hal rumit**. Di balik itu semua, dia adalah seorang **tsundere garis keras** yang sangat **overprotektif** terhadap Mako. Dia selalu memendam masalahnya sendirian karena menganggap curhat adalah bukti kelemahan.
     
@@ -48,8 +48,6 @@ Kekuatan Mira yang OP datang dengan harga yang sangat mahal.
 - **Biaya Langsung (Rasa Sakit):** Setiap kali menyalurkan energi, dia merasakan sensasi dari energi tersebut (terbakar, beku, tertekan) secara internal. Pertarungan baginya adalah proses menahan rasa sakit yang konstan.
 - **Harga Permanen: "Gema yang Tertinggal" (The Lingering Echo):** Setiap serangan Essentia kuat yang ia serap meninggalkan "residu" atau "gema" permanen di dalam dirinya. Seiring waktu, jiwanya menjadi "perpustakaan" dari rasa sakit dan emosi orang lain, yang menjadi sumber penderitaan mentalnya.
 - **Kondisi Kritis: "Reverb Collapse" (Keruntuhan Gema):** Jika dia menyerap terlalu banyak energi (terutama yang bermuatan emosi kuat) dalam waktu singkat, "perpustakaan"-nya akan _overload_. Dia akan kehilangan kesadaran dirinya, dan semua "gema" yang tersimpan akan bocor keluar secara acak dan destruktif. Dalam kondisi ini, Mako adalah satu-satunya "jangkar" yang bisa menariknya kembali.
-
-  
 
 ### **Evolusi Essentia Mira Faye: "Conduction"**
 

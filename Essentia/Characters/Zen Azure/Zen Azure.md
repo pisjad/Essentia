@@ -5,11 +5,9 @@
 
 **Nama:** Zen Azure
 
-**Julukan:** Z, No Face, The Unseen, Null God
+**Julukan:** Z, No Face, Heavenly Void, Voidwalker
 
-**Kepribadian:** Di permukaan, Zen adalah seorang pemuda yang tenang, santai, dan terkadang terlihat malas atau acuh tak acuh3. Namun, di baliknya, ia adalah seorang pengamat yang tajam, strategis, dan sangat protektif terhadap segelintir orang yang ia sayangi. Trauma masa lalunya membuatnya menjadi seorang
-
-**"Fisikawan Intuitif"**—seseorang yang terobsesi untuk memahami hukum dan aturan fundamental alam semesta sebagai cara untuk mendapatkan kembali kontrol atas dunianya yang pernah hancur.
+**Kepribadian:** Di permukaan, Zen adalah seorang pemuda yang tenang, santai, dan terkadang terlihat malas atau acuh tak acuh. Namun, di baliknya, ia adalah seorang pengamat yang tajam, strategis, dan sangat protektif terhadap segelintir orang yang ia sayangi. Trauma masa lalunya membuatnya menjadi seorang yang terobsesi untuk memahami hukum dan aturan fundamental alam semesta sebagai cara untuk mendapatkan kembali kontrol atas dunianya yang pernah hancur.
 
 - **Sinopsis Perjalanan:**
 
@@ -24,8 +22,6 @@ Mimpinya untuk membentuk pasukan elit kekaisaran akhirnya terwujud dengan terben
 ### **[ DATABOOK ESSENTIA - CLASSIFIED ]**
 
 Nama Essentia: Negative Space
-
-Nama Pengguna: Zen Azure
 
 Tipe Essentia: Specialist
 
@@ -50,40 +46,40 @@ Sebuah Essentia tipe Spesialis yang sangat langka, memungkinkan pengguna untuk m
 - **Persepsi Zen:** "Aku bisa memperlambat benda."
 - **Mekanisme Sebenarnya:** Saat melindungi Rin dari preman, Drive-nya untuk "menciptakan jarak" aktif. Ia secara tidak sadar **meningkatkan kepadatan (density) ruang negatif** antara tangan preman dan Rin. Tangan itu tidak melambat, tapi harus menembus medium yang tiba-tiba menjadi sepadat air atau madu.
 - **Manifestasi:**
-    - **Density Field (Pasif):** Secara naluriah menciptakan area kecil di sekitarnya di mana ruang menjadi lebih "kental", memperlambat serangan fisik yang masuk. Sangat lemah dan tidak bisa diandalkan.
-    - **Sound Dampening:** Efek samping dari Density Field. Suara juga ikut melambat dan meredam, membuatnya berpikir kekuatannya berhubungan dengan suara.
+    - **Stasis:** Secara naluriah menciptakan area kecil di sekitarnya di mana ruang menjadi lebih "kental", memperlambat serangan fisik yang masuk. Sangat lemah dan tidak bisa diandalkan.
+	    - **Ataraxia:** Efek samping dari Density Field. Suara juga ikut melambat dan meredam, membuatnya berpikir kekuatannya berhubungan dengan suara.
 
 **Tingkat 2: Emergent (Kontrol Dasar di Akademi)**
 
 - **Persepsi Zen:** "Aku bisa mengontrol 'kekentalan' udara."
 - **Mekanisme Sebenarnya:** Zen mulai bisa mengontrol tingkat kepadatan ruang negatif secara sadar, dari sekadar "kental" menjadi benar-benar **padat**.
 - **Manifestasi & Jurus Khas:**
-    - **Void Step (Langkah Kosong) - Versi Awal:** Dengan memadatkan ruang negatif tepat di bawah kakinya menjadi pijakan tak terlihat, Zen bisa melompat sekali lagi di udara. Masih canggung, lebih mirip _double jump_ daripada terbang.
-    - **Pressure Wall (Dinding Tekanan):** Menciptakan dinding ruang padat tak terlihat yang transparan. Di level ini, dindingnya masih rapuh dan akan "retak" seperti kaca jika dihantam serangan kuat.
+    - **Anapausis:** Dengan memadatkan ruang negatif tepat di bawah kakinya menjadi pijakan tak terlihat, Zen bisa melompat sekali lagi di udara. Masih canggung, lebih mirip _double jump_ daripada terbang.
+    - **Clausura (Dinding Tekanan):** Menciptakan dinding ruang padat tak terlihat yang transparan. Di level ini, dindingnya masih rapuh dan akan "retak" seperti kaca jika dihantam serangan kuat.
 
 **Tingkat 3: Adept (Pencerahan & Aplikasi Ofensif)**
 
 - **Persepsi Zen:** "Aku tidak mengontrol kekentalan. Aku mengontrol RUANG itu sendiri."
 - **Mekanisme Sebenarnya:** Zen menguasai dua prinsip utama: **Kompresi** (memadatkan) dan **Ekspansi** (meregangkan) ruang negatif.
 - **Manifestasi & Jurus Khas:**
-    - **Void Flight (Penerbangan Kosong):** Evolusi dari Void Step. Zen kini bisa menciptakan pijakan secara terus-menerus dan cepat, memungkinkannya "berlari" di udara dengan kebebasan total. _Flashy_ dan sangat lincah.
-    - **Pressure Fist (Tinju Tekanan):** Dengan memadatkan ruang di depan tinjunya, ia bisa melancarkan gelombang kejut spasial dari jarak jauh. Serangan khasnya yang baru.
+    - **Aetherstride (Penerbangan Kosong):** Evolusi dari Void Step. Zen kini bisa menciptakan pijakan secara terus-menerus dan cepat, memungkinkannya "berlari" di udara dengan kebebasan total. _Flashy_ dan sangat lincah.
+    - **Grav (Tinju Tekanan):** Dengan memadatkan ruang di depan tinjunya, ia bisa melancarkan gelombang kejut spasial dari jarak jauh. Serangan khasnya yang baru.
 
 **Tingkat 4: Master (Arsitek Spasial)**
 
 - **Persepsi Zen:** "Ruang adalah senjataku, perisaiku, dan penjaraku."
 - **Mekanisme Sebenarnya:** Zen mampu melakukan manipulasi ruang yang kompleks dan berlapis.
 - **Manifestasi & Jurus Khas:**
-    - **Internal Crush (Hantaman Internal):** Teknik kejam yang sangat efektif. Zen menargetkan ruang negatif tipis di antara armor dan tubuh lawan, lalu memadatkannya. Armor itu akan penyok ke dalam, menghancurkan penggunanya tanpa perlu menembus pertahanan luar.
-    - **Spatial Lock (Kunci Spasial):** Zen **meregangkan ruang negatif** di sekitar target. Dari perspektif target, dunia di luar mereka tampak menjauh tanpa batas. Mereka terjebak, berlari di tempat dalam penjara tak terlihat yang tak berujung.
+    - **Metastasis (Hantaman Internal):** Teknik kejam yang sangat efektif. Zen menargetkan ruang negatif tipis di antara armor dan tubuh lawan, lalu memadatkannya. Armor itu akan penyok ke dalam, menghancurkan penggunanya tanpa perlu menembus pertahanan luar.
+    - **Pandemonium (Kunci Spasial):** Zen **meregangkan ruang negatif** di sekitar target. Dari perspektif target, dunia di luar mereka tampak menjauh tanpa batas. Mereka terjebak, berlari di tempat dalam penjara tak terlihat yang tak berujung.
 
 **Tingkat 5: Nexus (Paradoks Zen)**
 
 - **Persepsi Zen:** "Jarak adalah sebuah ilusi yang bisa aku hapus."
 - **Mekanisme Sebenarnya:** Penguasaan absolut atas keberadaan dan ketiadaan ruang.
 - **Manifestasi & Jurus Khas (Godlike):**
-    - **Zero Distance (Jarak Nol):** Teknik yang kamu usulkan. Zen mengangkat tangannya ke arah target yang jauh. Dia tidak menarik targetnya. Dia **menghapus eksistensi ruang negatif di antara mereka**. Dalam sekejap, tanpa pergerakan, target yang berjarak 50 meter kini berada tepat di cengkeraman tangannya. Ini bukan teleportasi; ini adalah penghapusan jarak.
-    - **Void Rend (Sayatan Ketiadaan):** Teknik pamungkas. Zen menargetkan ruang negatif **di antara partikel-partikel** yang menyusun sebuah objek. Ia kemudian memadatkan ruang itu hingga nol. Objek tersebut tidak meledak, tapi "terlipat" ke dalam dirinya sendiri dan lenyap dari eksistensi. Ini adalah serangan absolut yang mengabaikan durabilitas.
+    - **Synkrisis (Jarak Nol):** Zen mengangkat tangannya ke arah target yang jauh. Dia tidak menarik targetnya. Dia **menghapus eksistensi ruang negatif di antara mereka**. Dalam sekejap, tanpa pergerakan, target yang berjarak 50 meter kini berada tepat di cengkeraman tangannya. Ini bukan teleportasi; ini adalah penghapusan jarak.
+    - **Apotheosis (Sayatan Ketiadaan):** Teknik pamungkas. Zen menargetkan ruang negatif **di antara partikel-partikel** yang menyusun sebuah objek. Ia kemudian memadatkan ruang itu hingga nol. Objek tersebut tidak meledak, tapi "terlipat" ke dalam dirinya sendiri dan lenyap dari eksistensi. Ini adalah serangan absolut yang mengabaikan durabilitas.
 
 ---
 
@@ -99,10 +95,7 @@ Semakin kuat jurus yang ia gunakan, semakin parah efek sampingnya:
 
 Ini adalah konflik utama karakternya: untuk bisa lebih dekat dan melindungi Rin, ia harus menggunakan kekuatan yang secara harfiah membuatnya semakin jauh dan terisolasi dari pengalaman indrawi yang ia bagi bersamanya.
 
-  
-
 ---
-
 ### **VISUAL KARAKTER: KOLONEL ZEN AZURE**
 
 ### **Fisik & Perawakan Umum**

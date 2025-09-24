@@ -6,7 +6,7 @@
 
 - Nama Lengkap: Hazim "Muzallim" Gale
 - Afiliasi: Black Zieg (Pengintai & Assassin)
-- Deskripsi Fisik: Seorang pemuda dari benua gurun, tinggi 178 cm, dengan fisik yang ramping dan liat. Kulitnya berwarna coklat eksotis hasil dari matahari gurun. Fitur yang paling mencolok adalah rambutnya yang berwarna putih bersih seperti tulang, dipotong pendek dan ikal, menciptakan kontras yang tajam dengan kulitnya (terinspirasi dari Alipede). Matanya lentik berbentuk almond, berwarna amber gelap yang tajam. Wajahnya dihiasi brewok tipis yang terawat.
+- Deskripsi Fisik: Seorang pemuda dari benua gurun, tinggi 178 cm, dengan fisik yang ramping dan liat. Kulitnya berwarna coklat eksotis hasil dari matahari gurun. Fitur yang paling mencolok adalah rambutnya yang berwarna putih bersih seperti tulang, dipotong pendek, menciptakan kontras yang tajam dengan kulitnya. Matanya lentik berbentuk almond, berwarna amber gelap yang tajam. Wajahnya dihiasi brewok tipis yang terawat.
 - Kepribadian: Hazim adalah sosok yang sangat pendiam, observatif, dan membawa aura melankolis yang berat. Dia membenci kegelapan lebih dari apa pun. Karakternya adalah perpaduan antara disiplin seorang ksatria dan keliaran seorang penyintas gurun. Julukan "Muzallim" (Yang Gelap) adalah ironi pahit yang diberikan padanya, merujuk pada efek kekuatannya yang menyedot cahaya.
 
 ### PILAR ESSENTIA (ORIGIN, INFLUENCE, DRIVE)

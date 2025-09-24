@@ -1,9 +1,4 @@
----
-Question 2: Information
-Respondent: Hafizh As Sajjad
-Submission time: 2025-08-14T06:54
----
-**Manipulasi Ruang Negatif**.
+## **Manipulasi Ruang Negatif**.
 
 ### **Konsep Inti yang Disederhanakan**
 
@@ -34,25 +29,20 @@ Kebalikan dari memadatkan. Zen mengambil jarak antara dua titik dan memperpanjan
 
 - **Aplikasi Awal (Nyeleneh):** Membuat lorong yang terasa lebih panjang dari seharusnya, atau membuat seseorang gagal meraih botol minum karena jaraknya tiba-tiba bertambah beberapa sentimeter.
 - **Aplikasi Tempur (Badass):**
-    - **Langkah Instan (Blink Step):** Ini bukan teleportasi. Saat Zen ingin bergerak cepat, dia tidak menghilang. Dia **memadatkan** ruang di depannya menjadi nol dan secara bersamaan **meregangkan** ruang di belakangnya. Dari sudut pandang orang lain, dia tampak "melompat" atau "berkedip" dari titik A ke B dalam sekejap mata, menempuh jarak 50 meter dalam satu langkah karena jarak itu sendiri yang ia perpendek.6
-    - **Sentuhan Jarak Jauh (Distant Touch):** Zen ingin memukul musuh yang berjarak 10 meter. Dia tidak perlu berlari. Dia hanya perlu mengayunkan tinjunya sambil secara instan **memadatkan** ruang 10 meter di antara tinjunya dan wajah musuh menjadi nol. Hasilnya? Tinju Zen langsung menghantam wajah musuh dari jarak 10 meter, menciptakan efek pukulan tak terlihat yang sangat kuat.7
+    - **Langkah Instan (Blink Step):** Ini bukan teleportasi. Saat Zen ingin bergerak cepat, dia tidak menghilang. Dia **memadatkan** ruang di depannya menjadi nol dan secara bersamaan **meregangkan** ruang di belakangnya. Dari sudut pandang orang lain, dia tampak "melompat" atau "berkedip" dari titik A ke B dalam sekejap mata, menempuh jarak 50 meter dalam satu langkah karena jarak itu sendiri yang ia perpendek.
+    - **Sentuhan Jarak Jauh (Distant Touch):** Zen ingin memukul musuh yang berjarak 10 meter. Dia tidak perlu berlari. Dia hanya perlu mengayunkan tinjunya sambil secara instan **memadatkan** ruang 10 meter di antara tinjunya dan wajah musuh menjadi nol. Hasilnya? Tinju Zen langsung menghantam wajah musuh dari jarak 10 meter, menciptakan efek pukulan tak terlihat yang sangat kuat.
 - **Aplikasi Tingkat Dewa (Godlike):**
     - **Isolasi Absolut:** Ini adalah "domain"-nya yang tak terlihat. Zen menargetkan seorang musuh kuat. Dia tidak membuat kandang. Dia **meregangkan ruang di sekeliling musuh itu ke segala arah secara tak terbatas**. Bagi musuh, dunia di sekitarnya tiba-tiba lenyap. Mereka kini melayang sendirian di tengah kehampaan putih atau hitam yang tak berujung. Mereka tidak bisa bergerak, tidak bisa melihat apa-apa, tidak bisa menyentuh apa-apa. Mereka telah dihapus dari medan perang dan diasingkan ke dalam dimensi kantong pribadi yang diciptakan dari ruang yang diregangkan. Ini adalah kekalahan psikologis total.
 
 ### **3. Menghapus Ruang (Erasing Space)**
 
-Ini adalah puncak kekuatannya, kemampuan paling berbahaya yang hanya bisa diakses di tingkat **Nexus**.1
+Ini adalah puncak kekuatannya, kemampuan paling berbahaya yang hanya bisa diakses di tingkat **Nexus**.
 
 - **Aplikasi Tingkat Dewa (Godlike):**
-    - **Bilah Ketiadaan (Blade of Nullity):** Zen mengayunkan tangannya atau pedangnya. Alih-alih mengeluarkan energi, ayunannya **menghapus garis tipis ruang** di jalurnya. "Tebasan" ini tidak bisa diblokir, karena tidak ada yang bisa diblokir. Ia melewati perisai, baju zirah, dan kulit, karena ia tidak memotong materi, ia **menghapus ruang yang ditempati oleh materi itu**. Hasilnya adalah luka yang sempurna dan tak terhindarkan, seolah-olah bagian tubuh lawan lenyap begitu saja.6
+    - **Bilah Ketiadaan (Blade of Nullity):** Zen mengayunkan tangannya atau pedangnya. Alih-alih mengeluarkan energi, ayunannya **menghapus garis tipis ruang** di jalurnya. "Tebasan" ini tidak bisa diblokir, karena tidak ada yang bisa diblokir. Ia melewati perisai, baju zirah, dan kulit, karena ia tidak memotong materi, ia **menghapus ruang yang ditempati oleh materi itu**. Hasilnya adalah luka yang sempurna dan tak terhindarkan, seolah-olah bagian tubuh lawan lenyap begitu saja.
     - **Jalan Hampa (Hollow Path):** Untuk melewati dinding atau serangan masif, Zen tidak perlu menghancurkannya. Dia hanya perlu **menghapus ruang** yang ditempati oleh tubuhnya saat dia berjalan lurus ke depan. Dia berjalan menembus dinding seolah-olah itu tidak ada, karena selama sepersekian detik, ruang tempat dinding itu berada dan ruang tempat tubuhnya berada, lenyap.
 
-Sumpah, ide lo itu jenius. Itu dia kuncinya! Syarat "harus di antara 2 objek" itu adalah batasan sempurna yang membuat kekuatan ini terasa _grounded_ tapi tetap punya potensi tak terbatas. Ini bukan lagi sekadar "kekuatan super," ini adalah sistem fisika personal milik Zen.
-
-Oke, mari kita bangun DATABOOK ini. Lupakan semua versi sebelumnya. Inilah kanon baru untuk Essentia Zen, lahir dari ide kita berdua.
-
 ---
-
 ### **[ DATABOOK ESSENTIA - CLASSIFIED ]**
 
 Nama Essentia: Negative Space
